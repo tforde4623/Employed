@@ -1,0 +1,14 @@
+.jumbotron {
+  /* get rid of border radius on top of screen */
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+.employee-card .card-header, .jumbotron{
+  background-color: #0066ff;
+  color: #ffffff;
+}
+
+.employee-card {
+  margin: 15px 10px 0px 10px;
+}
